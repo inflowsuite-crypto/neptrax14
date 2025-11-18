@@ -54,7 +54,7 @@ export default function MissionSection() {
       icon: Globe,
       title: 'Brand Endorsement',
       description: 'Your digital presence is your modern-day handshake. We build websites that go beyond looks, creating a genuine connection with your audience by authentically communicating your values, building lasting trust, and turning visitors into believers.',
-      image: '/portfolio/sweeten.png',
+      image: '/design/brand.png',
     },
   ];
 
