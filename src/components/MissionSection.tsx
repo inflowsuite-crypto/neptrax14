@@ -317,7 +317,7 @@ export default function MissionSection() {
           </div>
         </ScrollReveal>
 
-{/* About Section */}
+        {/* About Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mt-24">
           <ScrollReveal direction="left" delay={0} depth={2}>
             <div className="relative transform transition-all duration-700 ease-out translate-x-[-100px] opacity-0 animate-slideInLeft">
