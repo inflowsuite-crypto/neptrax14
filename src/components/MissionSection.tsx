@@ -41,7 +41,7 @@ export default function MissionSection() {
     {
       icon: TrendingUp,
       title: 'SEO Audit & Strategy',
-      description: 'Feeling lost in the search results? We provide a deep-dive analysis of your current site and competitors, delivering a clear, actionable roadmap to climb the rankings and dominate your niche. Your path to growth starts here Better data and Clear direction..',
+      description: 'Feeling lost in the search results? We provide a deep-dive analysis of your current site and competitors, delivering a clear, actionable roadmap to climb the rankings and dominate your niche. Your path to growth starts here with Better data and Clear direction..',
       image: '/design/seo2.png',
     },
     {
