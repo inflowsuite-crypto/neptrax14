@@ -29,7 +29,7 @@ export default function MissionSection() {
     {
       icon: User,
       title: 'Personal Portfolio',
-      description: 'Stand out with a stunning portfolio that highlights your work and personal brand.',
+      description: '"Your work is your story. Dont just list it—present it. We create stunning, bespoke portfolios that do more than display your projects; they capture your unique style and build a personal brand that makes you impossible to forget."',
       image: '/portfolio/rothys.png',
     },
     {
