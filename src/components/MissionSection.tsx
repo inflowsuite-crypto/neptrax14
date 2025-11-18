@@ -237,7 +237,7 @@ export default function MissionSection() {
         <MessagesSquare className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Team Dialogue</h3>
-          <p className="text-[#94a3b8] mt-2">Embed discussions and feedback within specific tasks to maintain context and focus collaboration.</p>
+          <p className="text-[#94a3b8] mt-2">Embed discussions and feedback within specific tasks to maintain context and collaboration.</p>
         </div>
       </div>
     </ScrollReveal>
