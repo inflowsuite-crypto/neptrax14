@@ -217,7 +217,7 @@ export default function MissionSection() {
         <PackageCheck className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Assets Ready for Deployment</h3>
-          <p className="text-[#94a3b8] mt-2">Receive final deliverables that are packaged for action and primed for instant implementation.</p>
+          <p className="text-[#94a3b8] mt-2">Receive final deliverables that are ready for instant implementation.</p>
         </div>
       </div>
     </ScrollReveal>
