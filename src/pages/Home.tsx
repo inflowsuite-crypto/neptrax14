@@ -108,7 +108,7 @@ export default function Home({ onNavigate }: HomeProps) {
                   with a website built to
                 </span>
                 <br className="hidden sm:block" />
-                <span className="bg-gradient-to-r from-[#2e4fdc] to-[#4da6ff] bg-clip-text text-transparent">
+                <span className="text-[#f1f5f9]">
                   convert & scale.
                 </span>
               </h1>
