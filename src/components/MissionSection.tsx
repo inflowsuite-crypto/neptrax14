@@ -47,13 +47,13 @@ export default function MissionSection() {
     {
       icon: Megaphone,
       title: 'Marketing Website',
-      description: 'High-converting landing pages designed to capture leads and drive sales.',
+      description: 'Stop letting visitors leave empty-handed. We design and build high-converting landing pages and sales funnels focused on a single goal: turning viewers into leads and customers. Maximize your ROI with a website built for action.',
       image: '/portfolio/sono.png',
     },
     {
       icon: Globe,
       title: 'Brand Endorsement',
-      description: 'Build trust and credibility with a digital presence that speaks to your values.',
+      description: 'Your digital presence is your modern-day handshake. We build websites that go beyond looks, creating a genuine connection with your audience by authentically communicating your values, building lasting trust, and turning visitors into believers.',
       image: '/portfolio/sweeten.png',
     },
   ];
