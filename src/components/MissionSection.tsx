@@ -35,7 +35,7 @@ export default function MissionSection() {
     {
       icon: Search,
       title: 'On-Page SEO',
-      description: 'What good is a beautiful website if no one can find it? We meticulously optimize every page from content to code to rank higher on Google, helping you attract a steady stream of the right customers, Neptrax is where great designs meets strategic growth..',
+      description: 'What good is a beautiful website if no one can find it? We meticulously optimize every page from content to code to rank higher on Google, helping you attract a steady stream of the right customers, Neptrax is where great designs meets strategic growth with Better data and Clear direction..',
       image: '/design/seo.png',
     },
     {
