@@ -194,7 +194,7 @@ export default function MissionSection() {
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Project Mapping</h3>
           <p className="text-[#94a3b8] mt-2">
-            Divide complex websites, SEO strategies, and design work into clear, actionable tasks for seamless project flow..
+            Break down complex projects into clear, actionable tasks for a seamless workflow.
           </p>
         </div>
       </div>
@@ -206,7 +206,7 @@ export default function MissionSection() {
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Intelligent Progress Tracking</h3>
           <p className="text-[#94a3b8] mt-2">
-            Completed milestones like published pages and finalized designs are auto filed away, ensuring your workspace remains focused.
+            Automatically file away completed milestones to maintain a focused, clutter-free workspace.
           </p>
         </div>
       </div>
@@ -217,7 +217,7 @@ export default function MissionSection() {
         <PackageCheck className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Assets Ready for Deployment</h3>
-          <p className="text-[#94a3b8] mt-2">Your final deliverables are packaged for action, requiring no additional work and are primed for instant implementation upon receipt.</p>
+          <p className="text-[#94a3b8] mt-2">Receive final deliverables that are packaged for action and primed for instant implementation.</p>
         </div>
       </div>
     </ScrollReveal>
@@ -227,7 +227,7 @@ export default function MissionSection() {
         <Focus className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Project Lens</h3>
-          <p className="text-[#94a3b8] mt-2">Focus in on what truly matters by customizing your view to highlight immediate priorities and filter out all irrelevant information.</p>
+          <p className="text-[#94a3b8] mt-2">Customize your view to highlight immediate priorities and filter out irrelevant information.</p>
         </div>
       </div>
     </ScrollReveal>
@@ -237,7 +237,7 @@ export default function MissionSection() {
         <MessagesSquare className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Team Dialogue</h3>
-          <p className="text-[#94a3b8] mt-2">Embed all discussions and feedback within the specific task they relate to, ensuring context is never lost and collaboration stays focused.</p>
+          <p className="text-[#94a3b8] mt-2">Embed discussions and feedback within specific tasks to maintain context and focus collaboration.</p>
         </div>
       </div>
     </ScrollReveal>
@@ -247,7 +247,7 @@ export default function MissionSection() {
         <ClipboardList className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Faster Delivery</h3>
-          <p className="text-[#94a3b8] mt-2">Move through project stages with speed and confidence using our structured templates that maintain high quality standards at every step.</p>
+          <p className="text-[#94a3b8] mt-2">Accelerate through project stages with structured templates that ensure high-quality standards.</p>
         </div>
       </div>
     </ScrollReveal>
