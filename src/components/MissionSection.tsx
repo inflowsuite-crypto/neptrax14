@@ -23,7 +23,7 @@ export default function MissionSection() {
       icon: Briefcase,
       title: 'Business Website',
       description:
-        'Professional sites that showcase your services and convert visitors into customers.',
+        'Every business needs a solid foundation online. We build professional, easy-to-navigate websites that clearly showcase what you offer, making it simple for potential customers to understand your value and take the next step.',
       image: '/portfolio/wildebrands.png',
     },
     {
