@@ -206,7 +206,7 @@ export default function MissionSection() {
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Intelligent Progress Tracking</h3>
           <p className="text-[#94a3b8] mt-2">
-            Automatically file away completed milestones maintaining a focused, clutter-free workspace.
+            Automatically file away completed milestones maintaining a focused workspace.
           </p>
         </div>
       </div>
