@@ -300,8 +300,8 @@ export default function MissionSection() {
             </div>
 
             <div className="relative z-10">
-              <h2 className="text-5xl font-bold text-white mb-6">Magnified Outcomes.</h2>
-              <h3 className="text-3xl font-bold text-white mb-8">Fast, Functional, Future-Ready.</h3>
+              <h2 className="text-5xl font-bold text-white mb-6">Enhanced Outcomes.</h2>
+              <h3 className="text-3xl font-bold text-white mb-8">Fast, Functional, Effective</h3>
 
               <div className="flex justify-center mb-8">
                 <div className="relative">
@@ -311,7 +311,7 @@ export default function MissionSection() {
               </div>
 
               <p className="text-white/90 text-lg max-w-2xl mx-auto">
-                From building responsive layouts to setting up SEO foundations, we streamline your entire web presence.
+                From responsive design to solid SEO foundations, we elevate and streamline your entire online presence.
               </p>
             </div>
           </div>
