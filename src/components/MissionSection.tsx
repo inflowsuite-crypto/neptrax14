@@ -62,29 +62,29 @@ export default function MissionSection() {
     {
       title: 'Local Expertise',
       description:
-        "We know Canada's major markets thoroughly, understanding their unique business requirements.",
+        "Leverage our deep, country-wide expertise to drive growth and connect with customers across the United States..",
     },
     {
       title: 'Proven Results',
       description:
-        'Our clients have seen real success in website traffic, potential leads, and yearly revenue.',
+        'We deliver measurable success in digital traffic, qualified leads, and revenue growth.',
     },
     {
-      title: 'Customized Solutions',
-      description: 'We create personalized strategies because we think outside the box.',
+      title: 'Tailored Strategys',
+      description: 'Get a custom digital strategy designed to solve your unique business challenges.',
     },
     {
-      title: 'Transparent Communication',
-      description: "You'll get clear updates, and we'll collaborate every step of the way.",
+      title: 'Dedicated Partnership',
+      description: "Stay informed and in control with transparent communication every step of the way.",
     },
     {
-      title: 'Affordable Excellence',
+      title: 'Smart Investment',
       description:
-        'Our competitive pricing ensures you get outstanding value without compromising quality.',
+        'Achieve outstanding digital quality and results without stretching your budget.',
     },
     {
-      title: 'Comprehensive Services',
-      description: 'We offer everything from web development to social media management.',
+      title: 'Digital Transformation',
+      description: 'We provide integrated solutions from web development to social media management.',
     },
   ];
 
