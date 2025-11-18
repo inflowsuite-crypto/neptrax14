@@ -320,22 +320,26 @@ export default function MissionSection() {
         {/* About Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mt-24">
           <ScrollReveal direction="left" delay={0} depth={2}>
-            <div className="relative transform transition-all duration-700 ease-out translate-x-[-100px] opacity-0 animate-slideInLeft">
+            <div className="relative">
               <img 
                 src="public/about.png" 
                 alt="About Neptrax" 
-                className="w-full h-auto rounded-lg transition-transform duration-700 ease-out hover:scale-105" 
+                className="w-full h-auto rounded-lg" 
               />
               <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-blue-500/10 to-purple-600/10 mix-blend-overlay pointer-events-none"></div>
             </div>
           </ScrollReveal>
 
           <ScrollReveal direction="right" delay={150}>
-            <div className="transform transition-all duration-700 ease-out delay-300 translate-x-[100px] opacity-0 animate-slideInRight">
+            <div>
               <h2 className="text-4xl font-bold text-white mb-6">About Neptrax</h2>
               <p className="text-white/90 text-lg leading-relaxed">
-                From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won't drain your budget, our support team is always there, and yes we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
+                From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won’t drain your budget, our support team is always there, and yes we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
               </p>
             </div>
           </ScrollReveal>
-          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
