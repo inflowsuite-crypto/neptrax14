@@ -317,25 +317,24 @@ export default function MissionSection() {
           </div>
         </ScrollReveal>
 
-{/* About Section */}
-<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mt-24">
-  <ScrollReveal direction="left" delay={0} depth={2}>
-    <div className="relative">
-      <img 
-        src="public/about.png" 
-        alt="About Neptrax" 
-        className="w-full h-auto rounded-lg border border-white/10" 
-      />
-      <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-blue-500/10 to-purple-600/10 mix-blend-overlay pointer-events-none"></div>
-    </div>
-  </ScrollReveal>
+        {/* About Section */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mt-24">
+          <ScrollReveal direction="left" delay={0} depth={2}>
+            <div className="rounded-2xl overflow-hidden shadow-[0_0_50px_rgba(37,99,235,0.3)]">
+              <img src="public/about.png" alt="About Neptrax" className="w-full h-auto" />
+            </div>
+          </ScrollReveal>
 
-  <ScrollReveal direction="right" delay={150}>
-    <div>
-      <h2 className="text-4xl font-bold text-white mb-6">About Neptrax</h2>
-      <p className="text-white/90 text-lg leading-relaxed">
-        From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won't drain your budget, our support team is always there, and yes we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
-      </p>
-    </div>
-  </ScrollReveal>
-</div>
+          <ScrollReveal direction="right" delay={150}>
+            <div>
+              <h2 className="text-4xl font-bold text-white mb-6">About Neptrax</h2>
+              <p className="text-white/90 text-lg leading-relaxed">
+                From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won’t drain your budget, our support team is always there, and yes we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
+              </p>
+            </div>
+          </ScrollReveal>
+        </div>
+      </div>
+    </section>
+  );
+}
