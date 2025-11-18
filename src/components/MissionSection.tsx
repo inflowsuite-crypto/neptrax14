@@ -24,13 +24,13 @@ export default function MissionSection() {
       title: 'Business Website',
       description:
         'Every business needs a solid foundation online. We build professional, easy-to-navigate websites that clearly showcase what you offer, making it simple for potential customers to understand your value and take the next step.',
-      image: '/portfolio/wildebrands.png',
+      image: '/design/business.png',
     },
     {
       icon: User,
       title: 'Personal Portfolio',
       description: 'Your work is your story. Don’t just list it "Present it". We create stunning, Iconic portfolios that do more than display your projects, they capture your unique style and build a personal brand that makes you impossible to forget.',
-      image: '/portfolio/rothys.png',
+      image: '/design/personal.png',
     },
     {
       icon: Search,
