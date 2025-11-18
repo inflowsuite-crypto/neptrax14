@@ -324,7 +324,7 @@ export default function MissionSection() {
               <img 
                 src="public/about.png" 
                 alt="About Neptrax" 
-                className="w-full h-auto rounded-lg border border-white/10" 
+                className="w-full h-auto rounded-lg" 
               />
               <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-blue-500/10 to-purple-600/10 mix-blend-overlay pointer-events-none"></div>
             </div>
