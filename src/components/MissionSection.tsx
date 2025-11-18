@@ -23,7 +23,7 @@ export default function MissionSection() {
       icon: Briefcase,
       title: 'Business Website',
       description:
-        'Every business needs a solid foundation online. We build professional, easy-to-navigate websites that clearly showcase what you offer, making it simple for potential customers to understand your value and take the next step.',
+        'Every business needs a solid foundation online.',
       image: '/design/business.png',
     },
     {
