@@ -329,7 +329,7 @@ export default function MissionSection() {
             <div>
               <h2 className="text-4xl font-bold text-white mb-6">About Neptrax</h2>
               <p className="text-white/90 text-lg leading-relaxed">
-                From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won’t drain your budget, our support team is always there, and yes—we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
+                From coast to coast, we create websites, grow your rankings, and take social media off your plate. Our services won’t drain your budget, our support team is always there, and yes we actually reply. Whether you're beginning or leveling up, Neptrax helps you get it done smoothly and simply.
               </p>
             </div>
           </ScrollReveal>
