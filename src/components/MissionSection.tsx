@@ -36,7 +36,7 @@ export default function MissionSection() {
       icon: Search,
       title: 'On-Page SEO',
       description: 'What good is a beautiful website if no one can find it? We meticulously optimize every page from content to code to rank higher on Google, helping you attract a steady stream of the right customers, organically.',
-      image: '/portfolio/sweeten.png',
+      image: '/design/seo.png',
     },
     {
       icon: TrendingUp,
