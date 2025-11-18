@@ -321,7 +321,7 @@ export default function MissionSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mt-24">
           <ScrollReveal direction="left" delay={0} depth={2}>
             <div className="rounded-2xl overflow-hidden shadow-[0_0_50px_rgba(37,99,235,0.3)]">
-              <img src="/portfolio/rothys.png" alt="About Neptrax" className="w-full h-auto" />
+              <img src="public/about.png" alt="About Neptrax" className="w-full h-auto" />
             </div>
           </ScrollReveal>
 
