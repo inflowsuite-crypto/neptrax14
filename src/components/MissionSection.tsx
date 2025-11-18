@@ -247,7 +247,7 @@ export default function MissionSection() {
         <ClipboardList className="text-[#2563eb]" size={28} />
         <div>
           <h3 className="text-[#f1f5f9] font-semibold block text-xl">Faster Delivery</h3>
-          <p className="text-[#94a3b8] mt-2">Accelerate through project stages with structured templates that ensure high quality standards.</p>
+          <p className="text-[#94a3b8] mt-2">Use structured templates to accelerate delivery while maintaining high standards.</p>
         </div>
       </div>
     </ScrollReveal>
