@@ -48,7 +48,7 @@ export default function MissionSection() {
       icon: Megaphone,
       title: 'Marketing Website',
       description: 'Stop letting visitors leave empty-handed. We design and build high-converting landing pages and sales funnels focused on a single goal: turning viewers into leads and customers. Maximize your ROI with a website built for action.',
-      image: '/portfolio/sono.png',
+      image: '/design/market.png',
     },
     {
       icon: Globe,
