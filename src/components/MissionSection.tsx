@@ -277,7 +277,7 @@ export default function MissionSection() {
         <ScrollReveal direction="up" delay={0}>
           <div className="mb-16">
             <h2 className="text-4xl font-bold text-white text-center mb-4">Why Choose Neptrax?</h2>
-            <p className="text-white/80 text-lg text-center mb-12">Why should you go with Neptrax for your web needs?</p>
+            <p className="text-white/80 text-lg text-center mb-12">World-Class Expertise. Fast & Professional Execution.</p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {benefits.map((benefit, index) => (
