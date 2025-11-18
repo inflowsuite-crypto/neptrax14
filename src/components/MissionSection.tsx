@@ -29,19 +29,19 @@ export default function MissionSection() {
     {
       icon: User,
       title: 'Personal Portfolio',
-      description: 'Your work is your story. Dont just list it "Present it". We create stunning, bespoke portfolios that do more than display your projects; they capture your unique style and build a personal brand that makes you impossible to forget.',
+      description: 'Your work is your story. Don’t just list it "Present it". We create stunning, Iconic portfolios that do more than display your projects, they capture your unique style and build a personal brand that makes you impossible to forget.',
       image: '/portfolio/rothys.png',
     },
     {
       icon: Search,
       title: 'On-Page SEO',
-      description: 'Optimize every element to rank higher and attract the right audience organically.',
+      description: 'What good is a beautiful website if no one can find it? We meticulously optimize every page from content to code to rank higher on Google, helping you attract a steady stream of the right customers, organically.',
       image: '/portfolio/sweeten.png',
     },
     {
       icon: TrendingUp,
       title: 'SEO Audit & Strategy',
-      description: 'Deep analysis and actionable insights to dominate search results in your niche.',
+      description: 'Feeling lost in the search results? We provide a deep-dive analysis of your current site and competitors, delivering a clear, actionable roadmap to climb the rankings and dominate your niche.',
       image: '/portfolio/jeton.png',
     },
     {
